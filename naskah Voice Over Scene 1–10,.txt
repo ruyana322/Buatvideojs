@@ -1,0 +1,77 @@
+SCENE 1 — OPENING
+
+"Udah capek-capek ngedit video berjam-jam, tapi pas di-upload, kualitasnya malah dikompres!
+
+Padahal kita udah susah payah bikin videonya sebagus mungkin.
+
+Kesel, kan?
+
+Tenang! Sekarang ada KytheraExt, solusi untuk membantu upload video TikTok dengan kualitas yang lebih terjaga!"
+
+SCENE 2 — PERSIAPAN
+
+"Sebelum mulai, ada dua aplikasi yang perlu kalian siapkan.
+
+Pertama, Telegram. Aplikasi ini digunakan untuk mendapatkan ID aktivasi.
+
+Kedua, Quetta Browser. Browser inilah yang akan kita gunakan untuk menjalankan KytheraExt."
+
+SCENE 3 — MEMBUKA QUETTA BROWSER
+
+"Kalau kedua aplikasi sudah siap, sekarang buka Quetta Browser.
+
+Setelah masuk ke halaman utama, perhatikan bagian pojok kanan bawah. Ketuk ikon tiga titik untuk membuka menu."
+
+SCENE 4 — MEMBUKA EXTENSION
+
+"Selanjutnya, cari menu Extension dengan ikon berbentuk puzzle.
+
+Ketuk menu tersebut untuk membuka halaman ekstensi."
+
+SCENE 5 — MEMBUKA KYTHERAEXT
+
+"Di halaman ekstensi, kalian akan menemukan KytheraExt.
+
+Sekarang ketuk KytheraExt untuk membuka panel utama ekstensi."
+
+SCENE 6 — PROSES AKTIVASI
+
+"Setelah panel KytheraExt terbuka, pilih Kythera Auth.
+
+Kemudian, masuk ke Telegram untuk mendapatkan ID aktivasi kalian.
+
+Jika ID sudah didapatkan, kembali ke Quetta Browser dan masukkan ID tersebut ke kolom yang tersedia.
+
+Selanjutnya, tekan tombol Activate dan tunggu sampai proses aktivasi berhasil."
+
+SCENE 7 — MEMBUKA TIKTOK STUDIO
+
+"Jika aktivasi sudah berhasil, sekarang kembali ke panel KytheraExt.
+
+Scroll ke bagian bawah sampai kalian menemukan tombol Open TikTok Studio.
+
+Ketuk tombol tersebut untuk melanjutkan."
+
+SCENE 8 — UPLOAD VIDEO
+
+"Setelah TikTok Studio terbuka, pilih video yang ingin kalian upload.
+
+Selanjutnya, mulai proses upload dan tunggu sampai progress mencapai seratus persen."
+
+SCENE 9 — POSTING VIDEO
+
+"Kalau video sudah selesai di-upload, sekarang kalian bisa menambahkan caption dan mengatur postingan sesuai kebutuhan.
+
+Jika semuanya sudah siap, tekan tombol Post.
+
+Selesai! Video kalian siap dipublikasikan."
+
+SCENE 10 — CLOSING
+
+"Nah, sekarang kalian sudah tahu bagaimana cara menggunakan KytheraExt dari awal sampai proses upload.
+
+Semoga tutorial ini bermanfaat dan bisa membantu kalian.
+
+Jangan lupa Follow akun ini untuk mendapatkan tutorial dan informasi menarik lainnya.
+
+Sampai jumpa di tutorial berikutnya!"

@@ -1,0 +1,201 @@
+SCENE 1 — MASALAH & SOLUSI
+
+Narasi:
+
+"Udah capek-capek ngedit video berjam-jam, tapi pas di-upload, kualitasnya malah dikompres! Padahal kita udah susah payah bikin videonya sebagus mungkin.
+
+Kesel, kan?
+
+Tenang! Sekarang ada KytheraExt, solusi untuk membantu upload video TikTok dengan kualitas yang lebih terjaga!"
+
+Visual:
+
+- Tampilkan seseorang sedang mengedit video dengan serius.
+- Timeline editing bergerak, memperlihatkan proses editing.
+- Tampilkan proses upload video.
+- Visual kualitas video berubah menjadi buram.
+- Munculkan ekspresi kecewa.
+- Transisi sinematik menuju logo KytheraExt.
+- Teks besar: "SOLUSI UPLOAD VIDEO HD".
+
+---
+
+SCENE 2 — PERSIAPAN APLIKASI
+
+Narasi:
+
+"Sebelum mulai, ada dua aplikasi yang perlu kalian siapkan.
+
+Pertama, Telegram. Aplikasi ini digunakan untuk mendapatkan ID aktivasi.
+
+Kedua, Quetta Browser. Browser inilah yang akan kita gunakan untuk menjalankan KytheraExt."
+
+Visual:
+
+- Dua ikon aplikasi muncul dengan animasi futuristik.
+- Telegram muncul di sebelah kiri.
+- Quetta Browser muncul di sebelah kanan.
+- Berikan efek glow dan animasi masuk.
+- Teks: "TELEGRAM + QUETTA BROWSER".
+
+---
+
+SCENE 3 — MEMBUKA QUETTA BROWSER
+
+Narasi:
+
+"Kalau kedua aplikasi sudah siap, sekarang buka Quetta Browser.
+
+Setelah masuk ke halaman utama, perhatikan bagian pojok kanan bawah. Ketuk ikon tiga titik untuk membuka menu."
+
+Visual:
+
+- Smartphone muncul dalam komposisi motion graphics.
+- Tampilkan tampilan Quetta Browser di dalam layar smartphone.
+- Kamera bergerak mendekati smartphone.
+- Ikon tiga titik diberi lingkaran highlight.
+- Animasi pointer menunjukkan lokasi yang harus ditekan.
+
+---
+
+SCENE 4 — MEMBUKA MENU EXTENSION
+
+Narasi:
+
+"Selanjutnya, cari menu Extension dengan ikon berbentuk puzzle.
+
+Ketuk menu tersebut untuk membuka halaman ekstensi."
+
+Visual:
+
+- Tampilan menu browser muncul di dalam smartphone.
+- Kamera melakukan push-in secara halus.
+- Ikon puzzle diberi efek highlight.
+- Animasi klik pada menu Extension.
+- Transisi menuju halaman ekstensi.
+
+---
+
+SCENE 5 — MEMBUKA KYTHERAEXT
+
+Narasi:
+
+"Di halaman ekstensi, kalian akan menemukan KytheraExt.
+
+Sekarang ketuk KytheraExt untuk membuka panel utama ekstensi."
+
+Visual:
+
+- Tampilkan halaman Extension.
+- KytheraExt menjadi fokus utama.
+- Kartu nama KytheraExt muncul dengan animasi.
+- Berikan efek highlight pada ekstensi.
+- Animasi klik dan transisi ke panel KytheraExt.
+
+---
+
+SCENE 6 — AKTIVASI KYTHERAEXT
+
+Narasi:
+
+"Setelah panel KytheraExt terbuka, pilih Kythera Auth.
+
+Kemudian, masuk ke Telegram untuk mendapatkan ID aktivasi kalian.
+
+Jika ID sudah didapatkan, kembali ke Quetta Browser dan masukkan ID tersebut ke kolom yang tersedia.
+
+Selanjutnya, tekan tombol Activate dan tunggu sampai proses aktivasi berhasil."
+
+Visual:
+
+- Tampilkan panel KytheraExt.
+- Highlight tombol Kythera Auth.
+- Transisi visual menuju Telegram.
+- Tampilkan ilustrasi proses mendapatkan ID.
+- Kembali ke Quetta Browser.
+- Animasikan ID dummy masuk ke kolom aktivasi.
+- Tombol Activate mendapatkan efek klik.
+- Progress animasi berjalan.
+- Munculkan indikator sukses: "ACTIVATION SUCCESSFUL".
+
+---
+
+SCENE 7 — MEMBUKA TIKTOK STUDIO
+
+Narasi:
+
+"Jika aktivasi sudah berhasil, sekarang kembali ke panel KytheraExt.
+
+Scroll ke bagian bawah sampai kalian menemukan tombol Open TikTok Studio.
+
+Ketuk tombol tersebut untuk melanjutkan."
+
+Visual:
+
+- Tampilkan status aktivasi berhasil.
+- Smartphone melakukan animasi scroll ke bawah.
+- Tombol Open TikTok Studio muncul sebagai fokus utama.
+- Highlight tombol.
+- Animasi klik dan transisi menuju TikTok Studio.
+
+---
+
+SCENE 8 — MEMULAI UPLOAD VIDEO
+
+Narasi:
+
+"Setelah TikTok Studio terbuka, pilih video yang ingin kalian upload.
+
+Selanjutnya, mulai proses upload dan tunggu sampai progress mencapai seratus persen."
+
+Visual:
+
+- Tampilan TikTok Studio muncul di dalam smartphone.
+- Tampilkan proses memilih video.
+- Kartu video bergerak menuju panel upload.
+- Progress bar bergerak secara bertahap dari 0% sampai 100%.
+- Saat selesai, tampilkan indikator upload berhasil.
+
+---
+
+SCENE 9 — MENAMBAHKAN CAPTION DAN POSTING
+
+Narasi:
+
+"Kalau video sudah selesai di-upload, sekarang kalian bisa menambahkan caption dan mengatur postingan sesuai kebutuhan.
+
+Jika semuanya sudah siap, tekan tombol Post.
+
+Selesai! Video kalian siap dipublikasikan."
+
+Visual:
+
+- Tampilkan halaman pengaturan posting.
+- Kolom caption mendapatkan highlight.
+- Animasi teks caption masuk.
+- Kamera bergerak mendekati tombol Post.
+- Animasi klik.
+- Munculkan notifikasi: "POSTING SUCCESSFUL".
+
+---
+
+SCENE 10 — PENUTUP & FOLLOW
+
+Narasi:
+
+"Nah, sekarang kalian sudah tahu bagaimana cara menggunakan KytheraExt dari awal sampai proses upload.
+
+Semoga tutorial ini bermanfaat dan bisa membantu kalian.
+
+Jangan lupa Follow akun ini untuk mendapatkan tutorial dan informasi menarik lainnya.
+
+Sampai jumpa di tutorial berikutnya!"
+
+Visual:
+
+- Logo KytheraExt muncul dengan animasi cinematic.
+- Background futuristik dengan partikel dan cahaya bergerak.
+- Tampilkan teks: "THANK YOU FOR WATCHING".
+- Kemudian muncul tulisan besar: "JANGAN LUPA FOLLOW!"
+- Ikon Follow mendapatkan animasi klik.
+- Akhiri dengan logo KytheraExt.
